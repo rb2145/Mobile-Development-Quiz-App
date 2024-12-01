@@ -15,8 +15,3 @@ This project is a fully functional Quiz App developed for Android devices, desig
 - **Frontend**: Java, XML (for UI layouts)
 - **Backend**: Firebase Realtime Database, Firebase Authentication
 - **Tools**: Android Studio, Gradle
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/mobile-development-quiz-app.git
